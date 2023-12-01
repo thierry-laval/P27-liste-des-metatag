@@ -10,7 +10,7 @@
 
 ***
 
-### 📎 P33 - Création d'un texte animé en html/css/js
+### 📎 P27 - Création d'une Liste complète de Meta Tags
 
 # ![left 100%](https://github.com/thierry-laval/archives/blob/master/images/bandeau-tiri.jpg?raw=true)
 
@@ -18,7 +18,14 @@ _`Début du projet le 01/11-2/2019`_
 
 ***
 
-Le projet P33 est une Liste complète des Meta Tags HTML
+Le projet P27 a été créé pour avoir une liste de balises meta essentielles pour améliorer nos sites web. Elle inclut description pour une présentation succincte, keywords et author. Le projet vise à créer une ressource collaborative où chacun adapte ces balises à ses besoins, favorisant les meilleures pratiques en référencement et accessibilité.
+
+Joignez-vous à nous sur GitHub : [https://github.com/thierry-laval/P27-liste-des-metatag].
+
+Faisons de nos sites des exemples de bonnes pratiques !
+
+Merci,
+Thierry
 
 ## Basic HTML Meta Tags
 
