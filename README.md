@@ -24,8 +24,7 @@ Joignez-vous à nous sur GitHub : [https://github.com/thierry-laval/P27-liste-de
 
 Faisons de nos sites des exemples de bonnes pratiques !
 
-Merci,
-Thierry
+Merci
 
 ## Basic HTML Meta Tags
 
