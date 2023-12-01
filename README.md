@@ -12,7 +12,7 @@
 
 ### 📎 P27 - Création d'une Liste complète de Meta Tags
 
-# ![left 100%](https://github.com/thierry-laval/archives/blob/master/images/bandeau-tiri.jpg?raw=true)
+![left 100%](https://github.com/thierry-laval/archives/blob/master/images/bandeau-tiri.jpg?raw=true)
 
 _`Début du projet le 01/11-2/2019`_
 
